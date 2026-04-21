@@ -79,8 +79,8 @@ tecnológicas útiles, funcionales y centradas en el usuario.
 
 ## 📫 Conecta conmigo
 
-- ✉️ [Tu correo electrónico o contacto profesional]
-- 🌐 [LinkedIn o portafolio personal]
+- ✉️ [saritanaranjowar@gmail.com]
+
 
 ---
 
