@@ -1,9 +1,8 @@
-
 ## Hola, soy Sara 👋
 
 # 👩‍💻 ¡Hola! Soy Sara Naranjo Guerra
 
-Soy una entusiasta del desarrollo de software con sólida formación teórica y técnica, complementada por experiencia práctica en entornos reales. Me apasiona crear soluciones tecnológicas útiles, funcionales y centradas en el usuario, aplicando buenas prácticas de desarrollo y herramientas modernas.
+Soy una entusiasta del desarrollo de software con sólida formación teórica y técnica, complementada por experiencia práctica en entornos reales. Me enfoco en construir soluciones eficientes, escalables y centradas en el usuario, aplicando buenas prácticas de desarrollo y pensamiento lógico.
 
 ---
 
@@ -18,37 +17,40 @@ Soy una entusiasta del desarrollo de software con sólida formación teórica y 
 
 ## 💻 Desarrollo de Habilidades Técnicas
 
-* 👩‍💻 **Programación orientada a objetos**
+* 👩‍💻 **Programación orientada a objetos (POO)**
 * 🌐 **Desarrollo web (Frontend y Backend)**
-* 🐍 **Desarrollo con Django (framework backend en Python)**
-* 📱 **Desarrollo de aplicaciones móviles**
-* 🧪 **Testing de software**
+* 🐍 **Desarrollo backend con Django (Python)**
+* 🗄️ **Diseño y gestión de bases de datos (MySQL)**
+* 🔗 **Creación y consumo de APIs REST**
+* 🧪 **Pruebas y validación de software**
 
 ---
 
 ## 🧠 Análisis y Diseño de Sistemas
 
-* 📋 Análisis de requerimientos
-* 🧩 Diseño de soluciones
-* 📐 Modelado de sistemas
+* 📋 Análisis de requerimientos funcionales
+* 🧩 Diseño lógico y estructurado de soluciones
+* 📐 Modelado de bases de datos y sistemas
 
 ---
 
-## 🛠️ Metodologías de Desarrollo
+## 🛠️ Herramientas y Buenas Prácticas
 
-* 🔄 Experiencia en **Scrum**
-* 🖌️ Diseño de interfaces de usuario (UI)
-* 📈 Gestión de proyectos
 * 🔧 Control de versiones con **Git y GitHub**
+* 🧼 Escritura de código limpio y organizado
+* ⚙️ Resolución de errores (debugging)
+* 📁 Organización de proyectos y documentación técnica
 
 ---
 
-## 🤝 Habilidades Blandas
+## 🤝 Habilidades Profesionales
 
-* 🗣️ Comunicación efectiva
+* 🧠 Pensamiento lógico y analítico
+* 🚀 Capacidad de aprendizaje rápido
+* 🎯 Enfoque en resultados
 * 🤝 Trabajo en equipo
-* 🌟 Liderazgo
-* 🧩 Resolución de problemas
+* 🗣️ Comunicación clara y efectiva
+* 🧩 Resolución eficiente de problemas
 
 ---
 
@@ -62,7 +64,7 @@ Soy una entusiasta del desarrollo de software con sólida formación teórica y 
 
 ## 🧪 Prácticas Profesionales
 
-* 💼 Experiencia en entorno laboral real, aplicando tecnologías como **Django**, bases de datos y control de versiones con **GitHub**
+* 💼 Experiencia en entorno laboral real aplicando desarrollo web con **Django**, manejo de bases de datos y control de versiones con **GitHub**
 
 ---
 
@@ -84,12 +86,10 @@ Soy una entusiasta del desarrollo de software con sólida formación teórica y 
 ## 📫 Conecta conmigo
 
 * ✉️ [saritanaranjowar@gmail.com](mailto:saritanaranjowar@gmail.com)
-* 💻 GitHub: *(aquí pones tu enlace, no me hagas adivinarlo porque no soy adivino… todavía)*
 
 ---
 
 ⭐ Gracias por visitar mi perfil
 
 ---
-
 
